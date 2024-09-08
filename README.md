@@ -4,7 +4,7 @@ Introduction
 This repository contains the code and resources for building a Convolutional Neural Network (CNN) to classify images of cats and dogs. The model is trained using deep learning techniques to distinguish between images of cats and dogs with high accuracy.
 
 Dataset
-The dataset used for training and testing the model consists of a large number of images of cats and dogs. The dataset is divided into two subsets: one for training the model and another for evaluating its performance. The dataset can be obtained from [link to dataset source].
+The dataset used for training and testing the model consists of a large number of images of cats and dogs. The dataset is divided into two subsets: one for training the model and another for evaluating its performance. The dataset can be obtained from 
 
 Installation
 To run the code in this repository, you will need Python 3.x and the following libraries:
